@@ -7,7 +7,6 @@ export const QueueSettingsPageStyles = styled('div')`
   align-items: center;
   justify-content: center;
 
-  width: 20rem;
   margin: 1rem;
 
   font-family: sans-serif;
