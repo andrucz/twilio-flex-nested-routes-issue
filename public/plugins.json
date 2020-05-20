@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-nested-routes",
+    "version": "0.0.0",
+    "class": "NestedRoutesPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-nested-routes.js"
+  }
+]
